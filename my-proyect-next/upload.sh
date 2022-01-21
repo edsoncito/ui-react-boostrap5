@@ -1,0 +1,1 @@
+scp -r ./build root@parqueosya.com:/u01/servicios/parqueosya/

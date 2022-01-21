@@ -1,0 +1,35 @@
+.login { 
+  height: 100%;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.login{ color: #000; text-shadow: 0 0 10px rgba(0,0,0,0.3); letter-spacing:1px; text-align:center; }
+
+
+.center {
+  width: 400px;
+  border-radius: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputLogin { 
+	width: 100%; 
+	margin-bottom: 10px; 
+	background: #F0F0F0;
+	border: none; 
+	outline: none;
+	padding: 10px;
+	font-size: 15px;
+	color: #3f3f3f;
+	text-shadow: 1px 100px 100px #050230;
+	border: 1px solid #050230;
+	border-radius: .25rem;
+}
+
+.inputLogin:focus { box-shadow: inset 0 100px 100px #fff, 0 100px 100px #fff; }

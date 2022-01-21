@@ -1,0 +1,14 @@
+{
+    "socket": {
+        "name": "parqueosya"
+    },
+    "storage": {
+        "urlLog": "proyecto_usuarioLog",
+        "deviceKey": "proyecto_deviceKey",
+        "fbtoken": "FIREBASE_TOKEN"
+    },
+    "images": {
+        "url": "https://parqueosya.com/images/",
+        "_url": "http://192.168.0.199:30015/"
+    }
+}
